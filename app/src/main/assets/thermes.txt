@@ -1,0 +1,6 @@
+Kanji → idéograme = symbole graphique représentant un mot. /nOn peut combiner des kanji (exp: feu + montagne = volcan, feu + montagne + ceinture = chaîne de volcans). /nLes nombres Japonais sont en Kanji.
+Kana → syllabaire(alphabet de syllabe), il est composer de l'hiragana et du katakana.
+Rōmaji → alphabet Latin (le notre) ,les 26 lettres (pas d'accent). /nIl est utilisé pour les noms de marques (Sony, Nintendo, ...), les sigles, les URL, le T de t-shirt et le E de e-mail.
+Arabiasūji → chiffres arabes (les notres). Il est plus simple que le système de chiffre Japonais.
+Hiragana → syllabaire, ressemble à des Kanji simplifié. /n(traduire en minuscule pour plus de simplicité d'apprentissage).
+Katakana → syllabaire, plus angulaire que les Hiragana, ce sont des partie de Kanji. /nOn l'utilise pour les mots d'origine étrangère les noms propres et (formelle) mettre en relièfe. /n(traduire en majuscule pour plus de simplicité d'apprentissage).

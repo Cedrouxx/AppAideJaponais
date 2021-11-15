@@ -1,0 +1,13 @@
+の → particule de possession (possesseurのpossédé).
+と → particule d'énumération, entre des noms (pas de verbe).
+や → particule d'énumération non-exhaustive (non complet).
+は[wa] → particule du thème de la phrase, il est différent du sujet du verbe.
+に → particule du lieu dans lequel il ne se passe rien./n   + particule du point d'arrivée./n   + particule du coi./n   + particule du complément de temps (si le point dans le temps est précis).
+で → particule du lieu dans lequel il se passe quelque chose./n   + particule du moyen (transport, outils, ...).
+へ[é] → particule de la direction.
+を[o] → particule du cod./n   + particule du parcours.
+から → particule de départ (temps ou espace).
+まで → particule d'arrivée (temps ou espace).
+が → particule du sujet du verbe (utiliser quand: thème != sujet, insister sur le sujet, donner une nouvelle information, exprimer avoir (<thème> <sujet> être de présence)).
+も → particule de chose identique (aussi).
+より → particule du point de départ (soutenu)/n   + particule de la base d'une comparaison.

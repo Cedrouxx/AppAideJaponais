@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ParticuleActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/particuleLayout"
+            android:layout_margin="8px"
+            android:paddingBottom="50px">
+        </LinearLayout>
+
+
+
+        <!--<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Particule de liaison :"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/li_no"
+                    android:text="の"
+                    android:layout_weight="1"
+                    android:onClick="click"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/li_to"
+                    android:text="と"
+                    android:layout_weight="1"
+                    android:onClick="click"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/li_ya"
+                    android:text="や"
+                    android:layout_weight="1"
+                    android:onClick="click"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/li_ka"
+                    android:text="か"
+                    android:layout_weight="1"
+                    android:onClick="click"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/li_nari"
+                    android:text="なり"
+                    android:layout_weight="1"
+                    android:onClick="click"/>
+            </LinearLayout>
+
+
+        </LinearLayout>-->
+
+    </ScrollView>
+
+</LinearLayout>
